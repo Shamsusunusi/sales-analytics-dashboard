@@ -30,7 +30,7 @@ Global Superstore dataset
 Kaggle
 
 # Dataset size
-rows: 51,291
+rows: 51,291/br
 columns: 23
 
 # Key Fields
