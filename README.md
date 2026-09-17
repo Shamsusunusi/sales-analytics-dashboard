@@ -71,6 +71,23 @@ The preparation process included:
 - Creating the required calculated fields for dashboard analysis
 - Organizing the data into a structured format suitable for Pivot Tables and charts
 
+# Tools & Techniques
+
+## Tools
+- Microsoft Excel
+
+### Techniques
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Excel formulas
+- Calculated fields
+- Data aggregation
+- KPI analysis
+- Interactive dashboard design
+- Data visualization
+
+
 
 
 
