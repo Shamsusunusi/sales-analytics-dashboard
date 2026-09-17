@@ -30,34 +30,34 @@ Global Superstore dataset
 Kaggle
 
 # Dataset size
-rows: 51,291
-columns: 23
+- rows: 51,291
+- columns: 23
 
 # Key Fields
-Row ID
-Order ID
-Order Date
-Ship Date
-Ship Mode
-Customer ID
-Customer Name
-Segment
-City
-State
-Country
-Postal Code
-Market
-Region
-Product ID
-Category
-Sub-Category
-Product Name
-Sales
-Quantity
-Discount
-Profit
-Shipping Cost
-Order Priorit
+- Row ID
+- Order ID
+- Order Date
+- Ship Date
+- Ship Mode
+- Customer ID
+- Customer Name
+- Segment
+- City
+- State
+- Country
+- Postal Code
+- Market
+- Region
+- Product ID
+- Category
+- Sub-Category
+- Product Name
+- Sales
+- Quantity
+- Discount
+- Profit
+- Shipping Cost
+- Order Priorit
 
 # Data Preparation
 
@@ -71,5 +71,6 @@ The preparation process included:
 - Creating the required calculated fields for dashboard analysis
 - Organizing the data into a structured format suitable for Pivot Tables and charts
 
-y
+
+
 
