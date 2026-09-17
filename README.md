@@ -57,5 +57,19 @@ Quantity
 Discount
 Profit
 Shipping Cost
-Order Priority
+Order Priorit
+
+# Data Preparation
+
+Before building the dashboard, the dataset was reviewed and prepared for analysis.
+
+The preparation process included:
+
+- Checking the dataset for missing and duplicate records
+- Ensuring dates and numerical fields were correctly formatted
+- Standardizing categorical fields such as Category, Segment, and Region
+- Creating the required calculated fields for dashboard analysis
+- Organizing the data into a structured format suitable for Pivot Tables and charts
+
+y
 
