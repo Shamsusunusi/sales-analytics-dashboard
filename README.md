@@ -73,10 +73,10 @@ The preparation process included:
 
 # Tools & Techniques
 
-## Tools
+# Tools
 - Microsoft Excel
 
-### Techniques
+# Techniques
 - Pivot Tables
 - Pivot Charts
 - Slicers
@@ -86,8 +86,6 @@ The preparation process included:
 - KPI analysis
 - Interactive dashboard design
 - Data visualization
-
-
 
 
 
