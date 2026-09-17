@@ -59,7 +59,3 @@ Profit
 Shipping Cost
 Order Priority
 
-
-
-- Which customer segments drive sales?
-- Who are the top customers by sales?
