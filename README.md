@@ -114,6 +114,7 @@ The dashboard tracks the following key performance indicators:
 | Profit Margin | 12% |
 | Total Orders | 25,035 |
 | Average Order Value | $505 |
+
 KPIs based on the currently selected filters.
 
 
