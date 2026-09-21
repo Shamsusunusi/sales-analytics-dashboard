@@ -87,5 +87,32 @@ The preparation process included:
 - Interactive dashboard design
 - Data visualization
 
+# Dashboard Overview
+
+The dashboard provides an interactive overview of sales performance through 
+KPI cards, trend analysis, category performance, regional analysis, customer 
+ranking, and customer segment analysis.
+
+The dashboard includes:
+
+- Sales and profit trend analysis
+- Sales by product category
+- Sales by region
+- Sales by customer segment
+- Top 10 customers
+- Interactive filters for Year, Category, and Segment
+
+# Key KPIs
+
+The dashboard tracks the following key performance indicators:
+
+| KPI | Value |
+|---|---:|
+| Total Sales | $6,083,180 |
+| Total Profit | $714,350 |
+| Total Customers | 1,590 |
+| Profit Margin | 12% |
+| Total Orders | 25,035 |
+| Average Order Value | $505 |
 
 
